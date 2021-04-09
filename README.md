@@ -43,7 +43,7 @@ Z pomocą dodanej biblioteki (jej klas) należy dodać pola:
 - przycisk "Wyślij" (class: success),
 - przycisk "Wyczyść" (class: danger).
 
-Po wciśnięciu przycisku "Zapisz" - pod formularzem powinien pojawić się wpisany tekst odpowiednio sformatowany.
+Po wciśnięciu przycisku "Wyślij" - pod formularzem powinien pojawić się wpisany tekst odpowiednio sformatowany.
 Np. 
 
 
