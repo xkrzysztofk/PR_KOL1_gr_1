@@ -49,15 +49,15 @@ Np.
 
 | Wiadomość:  |                                      |
 | ----------- | ------------------------------------ |
-| Email:      | **Wpisany w formularzy email**       |
-| Temat:      | **Wpisany w formularzy temat**       |
-| Wiadomość   | **Wpisana w formularzy wiadomość**   |
+| Email:      | **Wpisany w formularzu email**       |
+| Temat:      | **Wpisany w formularzu temat**       |
+| Wiadomość   | **Wpisana w formularzu wiadomość**   |
 |Została wysłana!|                                   |
 
  
 Po wybraniu przycisku Wyczyść, fomrmularz zostaje wyczyszczony, a informacja wysłanej wiadomości znika.
 
-Technika rozwiązania dowolna!.
+Technika rozwiązania dowolna!
 
 ## Zadanie 5
 
